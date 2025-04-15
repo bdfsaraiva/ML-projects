@@ -85,7 +85,7 @@ Cada estudante deve entregar um pequeno relatório (2 a 4 páginas), incluindo:
 ---
 
 ## Entrega
-A entrega realizar-se-à via ficheiro `.zip` no Moodle da UC, no dia 02.05.2025, ás 23:59 (hora de Lisboa).
+A entrega realizar-se-à via ficheiro `.zip` no Moodle da UC, no dia 09.05.2025, ás 23:59 (hora de Lisboa).
 
 Os artefactos a entregar serão:
 - Ficheiro python notebook (.ipynb)
@@ -95,4 +95,4 @@ Os artefactos a entregar serão:
 
 
 
-Bom trabalho! 🚀
+Bom trabalho!
