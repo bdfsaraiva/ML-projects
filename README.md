@@ -10,7 +10,7 @@ Neste projeto, o objetivo é aplicar técnicas de **clustering** e **redução d
 
 ### 1. Obtenção e Preparação dos Dados
 
-* Utilizar um dataset do Airbnb (por cidade) do repositório oficial.
+* Utilizar um dataset do Airbnb (por cidade) disponível no moodle
 * Sugere-se a mesma cidade do Projeto 1.
 
 ### 2. Redução de Dimensionalidade (PCA)
@@ -22,7 +22,7 @@ Neste projeto, o objetivo é aplicar técnicas de **clustering** e **redução d
 
 ### 3. Clusterização com K-Means
 
-* Aplicar o algoritmo **K-Means** para agrupar os anúncios.
+* Aplicar o algoritmo **K-Means** para agrupamento de anúncios.
 * Determinar o número de clusters ideal:
 
   * Avaliar com a métrica de **silhueta**.
