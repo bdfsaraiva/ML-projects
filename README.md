@@ -48,7 +48,7 @@ Neste projeto, o objetivo é aplicar técnicas de **clustering** e **redução d
 
 ## 📅 Entrega
 
-* A entrega será feita através do Moodle da UC, até o dia **15.06.2024**, às **23:59 (hora de Lisboa)**.
+* A entrega será feita através do Moodle da UC, até o dia **15.06.2025**, às **23:59 (hora de Lisboa)**.
 
 **Artefactos a entregar:**
 
